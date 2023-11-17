@@ -1,0 +1,14 @@
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\bin\Debug\RegShowRecords.exe.config
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\bin\Debug\RegShowRecords.exe
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\bin\Debug\RegShowRecords.pdb
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\obj\Debug\RegShowRecords.csproj.AssemblyReference.cache
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\obj\Debug\RegShowRecords.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\obj\Debug\RegShowRecords.FrmRegistration.resources
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\obj\Debug\RegShowRecords.FrmFileName.resources
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\obj\Debug\RegShowRecords.FrmStudentRecords.resources
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\obj\Debug\RegShowRecords.Properties.Resources.resources
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\obj\Debug\RegShowRecords.csproj.GenerateResource.cache
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\obj\Debug\RegShowRecords.csproj.CoreCompileInputs.cache
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\obj\Debug\RegShowRecords.exe
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\obj\Debug\RegShowRecords.pdb
+C:\Users\Dayandante.271156\Source\Repos\Reading-A-File\RegShowRecords\obj\Debug\RegShowRecords.Frm_penFileText.resources
